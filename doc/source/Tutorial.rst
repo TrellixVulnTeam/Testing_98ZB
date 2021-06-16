@@ -50,7 +50,7 @@ you can add link for referenc or connect to another page
   
   * *.. _a link: https://docutils.sourceforge.io/docs/ref/rst/directives.html#image*
   
-  * and you just need call that command with the name **a link**
+  * and you just need call that command with the name **`a link`**
   
 This is a paragraph that contains `a link`_.
 
